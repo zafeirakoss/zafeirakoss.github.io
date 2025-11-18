@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\atm\bin\Debug\net8.0\atm.exe
+C:\Users\user\Documents\Visual Studio 2022\atm\bin\Debug\net8.0\atm.deps.json
+C:\Users\user\Documents\Visual Studio 2022\atm\bin\Debug\net8.0\atm.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\atm\bin\Debug\net8.0\atm.dll
+C:\Users\user\Documents\Visual Studio 2022\atm\bin\Debug\net8.0\atm.pdb
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\atm.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\atm.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\atm.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\atm.dll
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\refint\atm.dll
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\atm.pdb
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\atm.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\atm\obj\Debug\net8.0\ref\atm.dll
